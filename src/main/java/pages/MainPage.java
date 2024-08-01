@@ -43,16 +43,5 @@ import java.time.Duration;
         public void clickOnBioTestLabButton() {
             wait.until(ExpectedConditions.elementToBeClickable(bioTestLabButton)).click();
         }
-//
-//        @FindBy(xpath = "//a[@onclick=\"compare.add('484')\"]")
-//        public WebElement good3Button;
-//        public void clickOnGood3Button() {
-//            wait.until(ExpectedConditions.elementToBeClickable(good3Button)).click();
-//        }
 
-//        @FindBy(xpath = "(//a[@href=\"https://3kbaits.com.ua/index.php?route=product/compare\"]/span[contains(@class, 'links-text')])[1]")
-//        public WebElement compareButton;
-//        public void clickOnCompareButton () {
-//            wait.until(ExpectedConditions.elementToBeClickable(compareButton)).click();
-//        }
     }

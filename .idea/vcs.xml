@@ -2,4 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/all
+    <mapping directory="$PROJECT_DIR$/allure-results" vcs="Git" />
+  </component>
+</project>
